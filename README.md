@@ -1,4 +1,4 @@
-# Advent of Code 2024 - First 7 Days
+# Advent of Code 2024 - First 7 Days🧑‍💻
 
 ## 🎄 About Advent of Code
 [Advent of Code](https://adventofcode.com/) is an annual event that takes place every December, offering daily programming challenges from December 1st to December 25th. Created by Eric Wastl, it features a series of problems that test problem-solving skills, algorithmic thinking, and coding proficiency across various difficulty levels. 
@@ -20,9 +20,8 @@ This repository contains my solutions for the **first 7 days** of **Advent of Co
 - `day_7/` - Solution for Day 7
 
 Each folder contains:
-- The Python script solving that day's challenge (`day_X.py`)
-- A sample input file (if needed)
-- A README file explaining the approach taken for that day's problem
+- The Python script solving that day's challenge 
+- A sample input file 
 - `part_1.py` - Solution for Part 1
 - `part_2.py` - Solution for Part 2 (which requires solving Part 1 first)
 
@@ -64,4 +63,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## ⭐ Connect with Me
 If you found this repository helpful or want to discuss problem-solving strategies, feel free to connect with me!
 
-Happy Coding! 🎄✨
+<p align="center"><b> Happy Coding! 🎄✨</b></p>
